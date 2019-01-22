@@ -7,4 +7,4 @@ There are NO dumb questions!
 
 # Code of Conduct
 * [Event Code of Conduct](EVENT_CODEOFCONDUCT.md) 
-* [Contributer Code of Conduct](CODEOFDONCUCT.md)
+* [Contributer Code of Conduct](CODE_OF_CONDUCT.md)

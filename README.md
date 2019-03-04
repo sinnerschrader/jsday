@@ -6,7 +6,7 @@ If you have any question, please don't hastiate to ask a coach.
 There are NO dumb questions!
 
 ## Tutorials ##
-* [Tutorials](tutorials.md) 
+* [Tutorials](TUTORIALS.md) 
 
 # Code of Conduct #
 * [Event Code of Conduct](EVENT_CODEOFCONDUCT.md) 

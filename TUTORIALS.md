@@ -1,16 +1,19 @@
 # Tutorials
 👷‍♀️ work in progress
 
-| Field      |  Name       | Lang | url                                             |
-|---         |---          |---   | ---                                             |
-| Angular    | ng-girls    | EN   | https://ng-girls.gitbook.io/todo-list-tutorial  | 
-| VueJS      | VueVixins   | EN   | https://vuevixens.github.io/docs/workshop/      |
-| JavaScript | codecademy  | EN   | https://www.codecademy.com/catalog/language/javascript |
-| HTML & CSS | CSSclasses  | EN   | https://cssclass.es                             |
-| HTML & CSS | codecademy  | EN   | https://www.codecademy.com/catalog/language/html-css     |
+| Field      |  Name                                  | Lang | url                                             |
+|---         |---                                     |---   | ---                                             |
+| Angular    | ng-girls                               | EN   | https://ng-girls.gitbook.io/todo-list-tutorial  | 
+| JavaScript | codecademy                             | EN   | https://www.codecademy.com/catalog/language/javascript |
+| JavaScript | 30 Day Vanilla JS Coding Challenge     | EN   | https://javascript30.com/ |
+| HTML & CSS | CSSclasses                             | EN   | https://cssclass.es                             |
+| HTML & CSS | codecademy                             | EN   | https://www.codecademy.com/catalog/language/html-css     |
+| React      | Intro to React                         | EN   | https://reactjs.org/tutorial/tutorial.html              |
+| React      | Free Courses Link list                 | EN   | https://reactjs.org/community/courses.html       |
+| VueJS      | VueVixins                              | EN   | https://vuevixens.github.io/docs/workshop/      |
 
 
-### Mozilla MDN Tutorial
+## Mozilla MDN Tutorial
 
 * Complete beginners start here! [EN](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web) 
   * Getting started with the Web
@@ -38,10 +41,4 @@
   * First steps
   * Django web framework (Python)
   * Express Web Framework (node.js/JavaScript)
-
-
-| Field      |  Name       | Lang | url                                             |
-|---         |---          |---   | ---                                             |
-| HTML, CSS & JavaScipt | MDN Mozilla | EN   | https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web |
-| HTML, CSS & JavaScipt | MDN Mozilla | DE   | https://developer.mozilla.org/de/docs/Learn/Getting_started_with_the_web |
 

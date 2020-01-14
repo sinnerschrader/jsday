@@ -1,13 +1,18 @@
-# JSDay - a day full of JavaScript#
+# JSS learning stuff#
 
-Here you will find a lot of tutorials which you can use to learn. Have fun :)
+This is collection of tutorials and other learning ressoruces for *CSS* and *JS*
 
-If you have any question, please don't hastiate to ask a coach.
-There are NO dumb questions!
+We set it up, to have a base collection for JSSDay (half a day workshop for CSS and JS) and Bugfix Tuesday.
+
+## Important for JSSDay and Bugfix Tuesday ##
+
+If you have any question, pleaase *don't hastiate* to ask a coach or someoneelse.
+There are NO dumb questions! 
+
+Have fun :)
 
 ## Tutorials ##
 * [Tutorials](TUTORIALS.md) 
 
 # Code of Conduct #
-* [Event Code of Conduct](EVENT_CODEOFCONDUCT.md) 
 * [Contributer Code of Conduct](CODE_OF_CONDUCT.md)

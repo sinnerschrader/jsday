@@ -1,17 +1,16 @@
 # Tutorials
 👷‍♀️ work in progress
 
-| Field      |  Name                                  | Lang | url                                             |
-|---         |---                                     |---   | ---                                             |
-| Angular    | ng-girls                               | EN   | https://ng-girls.gitbook.io/todo-list-tutorial  | 
-| JavaScript | codecademy                             | EN   | https://www.codecademy.com/catalog/language/javascript |
-| JavaScript | 30 Day Vanilla JS Coding Challenge     | EN   | https://javascript30.com/ |
-| HTML & CSS | CSSclasses                             | EN   | https://cssclass.es                             |
-| HTML & CSS | codecademy                             | EN   | https://www.codecademy.com/catalog/language/html-css     |
-| React      | Intro to React                         | EN   | https://reactjs.org/tutorial/tutorial.html              |
-| React      | Free Courses Link list                 | EN   | https://reactjs.org/community/courses.html       |
-| VueJS      | VueVixins                              | EN   | https://vuevixens.github.io/docs/workshop/      |
-
+| Field      | Name                               | Lang    | url                                                                                                              |
+| ---------- | ---------------------------------- | ------- | ---------------------------------------------------------------------------------------------------------------- |
+| Angular    | ng-girls                           | EN      | [https://ng-girls.gitbook.io/todo-list-tutorial](https://ng-girls.gitbook.io/todo-list-tutorial)                 |
+| JavaScript | codecademy                         | EN      | [https://www.codecademy.com/catalog/language/javascript](https://www.codecademy.com/catalog/language/javascript) |
+| JavaScript | 30 Day Vanilla JS Coding Challenge | EN      | [https://javascript30.com/](https://javascript30.com/)                                                           |
+| HTML & CSS | CSSclasses                         | EN      | [https://cssclass.es](https://cssclass.es)                                                                       |
+| HTML & CSS | codecademy                         | EN      | [https://www.codecademy.com/catalog/language/html-css](https://www.codecademy.com/catalog/language/html-css)     |
+| React      | Intro to React                     | EN      | [https://reactjs.org/tutorial/tutorial.html](https://reactjs.org/tutorial/tutorial.html)                         |
+| React      | Free Courses Link list             | EN      | [https://reactjs.org/community/courses.html](https://reactjs.org/community/courses.html)                         |
+| VueJS      | VueVixins                          | EN & DE | [https://workshops.vuevixens.org/](https://workshops.vuevixens.org/)                                             |
 
 ## Mozilla MDN Tutorial
 
